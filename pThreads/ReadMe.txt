@@ -1,0 +1,2 @@
+All of the code for Task and Loop Scheduler are coded, those are not having errors but I am having a segmentation fault, So I dont have output and reedings for those files.
+Please cosider code for partial grading if there is any possibility eventhough it is getting run-time error.
